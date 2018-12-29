@@ -1,2 +1,17 @@
+Akordy a text
+
+- [Richard Müller - Srdce jako kníže Rohan](http://www.supermusic.cz/piesen_tlac.php?idpiesne=1305&modulacia=)
+- [Kryštof - Cesta](http://www.supermusic.cz/piesen_tlac.php?idpiesne=617063&modulacia=)
+- [Lucie - Amerika](https://www.supermusic.cz/piesen_tlac.php?idpiesne=923&modulacia=)
+- [Buty - František](https://www.supermusic.cz/piesen_tlac.php?idpiesne=4&modulacia=)
+- [Mňága A Žďorp - Nejlíp jim bylo](https://www.supermusic.cz/piesen_tlac.php?idpiesne=4067&modulacia=)
 - [Michal Kozelka - Milenci v texaskách (z muzikálu Starci na chmeli)](https://www.supermusic.cz/piesen_tlac.php?idpiesne=4882&modulacia=-3)
 - [Wabi Ryvola - Tak už mi má holka mává](https://www.supermusic.cz/piesen_tlac.php?idpiesne=14204&modulacia=)
+- [Buty - Nad stádem koní](https://www.supermusic.cz/piesen_tlac.php?idpiesne=1290&modulacia=)
+- [Žlutý Pes - Modrá](https://www.supermusic.cz/piesen_tlac.php?idpiesne=989&modulacia=)
+- [Michal Tučný - Pověste ho vejš](https://www.supermusic.cz/piesen_tlac.php?idpiesne=576&modulacia=)
+- [Premiěr - Hrobař](https://www.supermusic.cz/piesen_tlac.php?idpiesne=1658&modulacia=)
+- [Vlasta Redl - Sbohem galánečko](http://www.supermusic.cz/piesen_tlac.php?idpiesne=905&modulacia=)
+- [Pavel Lohonka Žalman - Jdem zpátky do lesů](https://supermusic.cz/piesen_tlac.php?idpiesne=1741&modulacia=)
+- [Lucie - Sen](https://www.supermusic.cz/piesen_tlac.php?idpiesne=45&modulacia=0)
+- [Jaromír Nohavica - Jdou po mně jdou](https://www.supermusic.cz/piesen_tlac.php?idpiesne=82186&modulacia=)

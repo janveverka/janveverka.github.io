@@ -1,0 +1,2 @@
+- [Michal Kozelka - Milenci v texaskách (z muzikálu Starci na chmeli)](https://www.supermusic.cz/piesen_tlac.php?idpiesne=4882&modulacia=-3)
+- [Wabi Ryvola - Tak už mi má holka mává](https://www.supermusic.cz/piesen_tlac.php?idpiesne=14204&modulacia=)
